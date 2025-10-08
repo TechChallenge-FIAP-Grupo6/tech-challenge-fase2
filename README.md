@@ -146,8 +146,8 @@ compreendam facilmente os trajetos otimizados.
 
   ##  Referências
 
--   FIAP -- Pós IA para Desenvolvedores\
--   Kaggle -- exemplos de datasets de logística e saúde\
+-   FIAP -- Pós IA para Desenvolvedores
+-   Kaggle -- exemplos de datasets de logística e saúde
 -   Goldberg, D.E. -- *Genetic Algorithms in Search, Optimization &
     Machine Learning*\
 -   OpenAI Documentation
