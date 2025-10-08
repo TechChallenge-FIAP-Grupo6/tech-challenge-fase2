@@ -1,0 +1,4 @@
+Experimento,População,Gerações,Mutação,Torneio_k,Elite,Custo (km+penal.)
+A_rápido,40,120,0.1,2,4,63.8
+B_equilíbrio,60,200,0.15,3,6,65.34
+C_exploratório,80,250,0.2,3,8,76.23
