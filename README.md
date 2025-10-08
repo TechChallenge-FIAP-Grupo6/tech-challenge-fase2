@@ -2,7 +2,6 @@
 
 ##  Pós-Graduação: Inteligência Artificial para Desenvolvedores -- FIAP
 
-### Grupo: \[adicione os nomes dos integrantes aqui\]
 
 ------------------------------------------------------------------------
 
