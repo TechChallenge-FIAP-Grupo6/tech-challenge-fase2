@@ -151,6 +151,10 @@ compreendam facilmente os trajetos otimizados.
     Machine Learning*\
 -   OpenAI Documentation
 
+  ##  Links 
+
+Git Hub: https://github.com/TechChallenge-FIAP-Grupo6/tech-challenge-fase2
+Youtube: https://www.youtube.com/watch?v=oFz9EjT_7X0 
 
 
 
