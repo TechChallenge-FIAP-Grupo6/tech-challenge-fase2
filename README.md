@@ -154,6 +154,7 @@ compreendam facilmente os trajetos otimizados.
   ##  Links 
 
 Git Hub: https://github.com/TechChallenge-FIAP-Grupo6/tech-challenge-fase2
+
 Youtube: https://www.youtube.com/watch?v=oFz9EjT_7X0 
 
 
